@@ -1,0 +1,4 @@
+Quando lidamos com objetos externos, nós só estamos interessados em saber SE um método foi chamado 
+e QUAIS PARÂMETROS o chamador passou ao objeto. Nós não estamos testando se o objeto externo 
+retorna o resultado correto, isto é simulado (mockado) pelo mock, que de fato retorna exatamente o 
+resultado que precisamos.

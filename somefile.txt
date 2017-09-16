@@ -1,0 +1,6 @@
+Bom dia
+
+Este arquivo faz parte dos testes sobre mocks que estamos aprendendo.
+Então....
+
+Go ahead.
